@@ -5,7 +5,9 @@
   }
   
   body {
-    font-family: arial;
+    a {
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
+      }
     background-image: url(https://www.indigofondos.com/wp-content/uploads/2021/04/fondo-negro-concreto-1.png);
     background-size: cover;
 
